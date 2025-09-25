@@ -17,9 +17,9 @@ This app allows users to **securely record, categorize, and track expenses**, wi
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Tailwind CSS / Bootstrap (if used)  
+- **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Mongoose ODM)  
+- **Database:** MongoDB
 - **Authentication:** JWT  
 
 ---
