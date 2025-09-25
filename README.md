@@ -23,5 +23,3 @@ This app allows users to **securely record, categorize, and track expenses**, wi
 - **Authentication:** JWT  
 
 ---
-
-## 📂 Project Structure
